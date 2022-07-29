@@ -1,0 +1,5 @@
+pip freeze>requirements.txt    (for generate)
+
+
+
+pip install -r.\requirements.txt   (for auto installation/drag n drop it into project folder n type code) 
