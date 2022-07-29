@@ -1,0 +1,1 @@
+# AI-thesis-Covid-Prediction-from-chest-Xray-by-CNNby-
